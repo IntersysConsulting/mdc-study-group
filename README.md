@@ -16,11 +16,11 @@ Just:
 
 1. If you already cloned this repo go to step 3
 2. Clone this repository
-3. Pull lates changes
-4. Create a new directory named as you talk
+3. Pull latest changes
+4. Create a new directory named as your talk
 5. Inside your talk directory you will:
-  - Add a `README.md` file which contains a breaf description of your talk and how direction on how to work with the exposed material
-  - Add the material of yuo talk
+  - Add a `README.md` file which contains a brief description of your talk and directions/instructions on how to work with the exposed material
+  - Add the material of your talk
 6. Modify this README file adding your talk's info in Talks section
 7. Commit and push!
 
@@ -34,6 +34,5 @@ __NOTE:__ Check Naming conventions section for more info.
 
 | Author                                                        |Title                                                         |
 | --------------------------------------------------------------|--------------------------------------------------------------|
-| [Oscar Vargas Torres](https://twitter.com/oscarvarto?lang=en) |                                                              |
+| [Oscar Vargas Torres](https://twitter.com/oscarvarto)         | Interactive Notebooks for sharing and collaboration          |
 | [Rafa Avila](https://twitter.com/AvimRafa)                    | Functions everywhere!                                        |
-
